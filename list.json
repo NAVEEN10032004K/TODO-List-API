@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "title": "Buy groceries",
+        "status": "completed",
+        "description": "Milk, bread, eggs, and vegetables"
+    },
+    {
+        "id": "2",
+        "title": "Finish FastAPI project",
+        "status": "pending",
+        "description": "Work on the Todo List API endpoints"
+    },
+    {
+        "id": "3",
+        "title": "Read book",
+        "status": "completed",
+        "description": "Finished reading 'Clean Code'"
+    },
+    {
+        "id": "4",
+        "title": "Exercise",
+        "status": "completed",
+        "description": "30 minutes of calisthenics workout"
+    },
+    {
+        "id": "5",
+        "title": "Plan weekend trip",
+        "status": "completed",
+        "description": "Research destinations and make itinerary"
+    },
+    {
+        "id": "6",
+        "title": "Yoga",
+        "status": "pending",
+        "description": ""
+    },
+    {
+        "id": "7",
+        "title": "CS50x",
+        "status": "pending",
+        "description": "Complete the week 6 lecture"
+    }
+]
